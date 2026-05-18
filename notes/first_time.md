@@ -12,8 +12,10 @@ nothing much here, but surely i successfully integrated AI into my own project -
 
 furthermore, a work in my YSP project - check it out at EDSR-Resource Library, pls. took 2 weeks and learnt how to use framework and adjusting the config of the model.
 
+btw, helped someone to fix his Hermes Agent workflow.
+
 ## Planning
 
 1. Kaggle - Titanic. Data analysis and Python basic.
-2. check out the real problem.
+2. check out the real questions.
 3. can someone donate me DGX Spark / Claude API Billing?
